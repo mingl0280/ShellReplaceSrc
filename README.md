@@ -11,4 +11,4 @@
 
 ### 用法
 
-下载脚本后chmod +x ./aptSourceReplace.sh  && ./aptSourceReplace.sh
+下载脚本后chmod +x ./aptSourceReplace.sh  && sudo ./aptSourceReplace.sh
